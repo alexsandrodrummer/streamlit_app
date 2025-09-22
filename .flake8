@@ -1,0 +1,3 @@
+[fale8]
+exclude = venv
+ignore = E501
