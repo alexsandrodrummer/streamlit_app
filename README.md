@@ -19,7 +19,7 @@
 ## 🧩 Sobre o Projeto
 
 O **Streamlit Movies App** é uma aplicação web desenvolvida em **Python + Streamlit** para listar e visualizar dados de **Filmes**, **Gêneros**, **Atores** e **Reviews**.  
-O app consome dados de uma **API REST** (desenvolvida por mim) hospedada no [PythonAnywhere](https://www.pythonanywhere.com/).
+O app consome dados de uma **API REST**  hospedada no [PythonAnywhere](https://www.pythonanywhere.com/).
 
 ---
 
