@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/alexsandrodrummer/streamlit_app/main/preview.png" alt="Preview da aplicação Streamlit" width="800"/>
 </p>
+<img width="1922" height="1005" alt="preview" src="https://github.com/user-attachments/assets/91d3d1d1-c609-4fa4-8c82-0b0657d87b7c" />
 
 ---
 
